@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dotenv
+python-docx
+python-pptx
+pymupdf
+PyPDF2
+pandas
+numpy
+sentence-transformers
